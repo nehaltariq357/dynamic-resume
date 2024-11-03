@@ -1,1 +1,1 @@
-deployed url = 
+deployed url = https://dynamic-resume-five-omega.vercel.app/
